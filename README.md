@@ -90,7 +90,7 @@ Week 5| Final editing, quality review, rendering, and project presentation
 
 🔗 Project Resources
 
-- Google Drive: To Be Added
+- Google Drive: [To Be Added](https://drive.google.com/drive/folders/17u1UuIWTTgxwH2KkuL3RM8vtz1pxxJaH?usp=sharing)
 - Storyboard: To Be Added
 - Final Video: To Be Added
 - Behance / Portfolio: To Be Added
