@@ -1,36 +1,36 @@
-🧠 ReMind | استعد عقلك
+# 🧠 ReMind | استعد عقلك
 
-Motion Graphics Graduation Project
+### Motion Graphics Graduation Project
 
-Tagline: Break the Scroll. Reclaim Your Mind.
+**Tagline:** Break the Scroll. Reclaim Your Mind.
 
 ---
 
-📎 Project Name
+## 📎 Project Name
+**ReMind — استعد عقلك**
 
-ReMind — استعد عقلك
+## 📌 Project Overview
 
-📌 Project Overview
-
-ReMind is an educational motion graphics project that raises awareness about Brain Rot, a popular term describing the perceived effects of excessive consumption of low-value digital content, particularly short-form videos and endless social media scrolling.
+ReMind is an educational motion graphics project that raises awareness about **Brain Rot**, a popular term describing the perceived effects of excessive consumption of low-value digital content, particularly short-form videos and endless social media scrolling.
 
 Through engaging animation, visual storytelling, creative transitions, and sound design, the project explores how unhealthy digital habits may affect attention, productivity, and everyday life.
 
 The video encourages viewers to rethink their screen-time habits and develop a healthier relationship with technology.
 
-👥 Team Members
+## 👥 Team Members
 
-Name| Role
-Ahmed Mohamed Ahmed Mahmoud| Team Leader
-Islam Ahmed Abdel Ghani Mahrous| Team Member
-Mariam Mohamed Sayed Galal| Team Member
-Mohamed Ismail Mohamed El Said| Team Member
+| # | Full Name | Role |
+|:---:|:---|:---|
+| 01 | Ahmed Mohamed Ahmed Mahmoud | **Team Leader** |
+| 02 | Islam Ahmed Abdel Ghani Mahrous | Team Member |
+| 03 | Mariam Mohamed Sayed Galal | Team Member |
+| 04 | Mohamed Ismail Mohamed El Said | Team Member |
 
-🎓 Instructor
+## 🎓 Instructor
 
-Galal Badr — جلال بدر
+**Galal Badr — جلال بدر**
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Raise awareness about excessive social media consumption.
 - Explain the concept of Brain Rot through engaging visual storytelling.
@@ -39,68 +39,70 @@ Galal Badr — جلال بدر
 - Apply professional motion graphics techniques, animation principles, and sound design.
 - Deliver a visually engaging and educational animated video.
 
-📦 Project Scope
+## 📦 Project Scope
 
 The project includes the complete production of an educational motion graphics video.
 
-Pre-Production
-
+### Pre-Production
 - Topic research and content development.
 - Scriptwriting and storytelling.
 - Moodboard and visual style development.
 - Storyboarding and scene planning.
 
-Production
-
+### Production
 - Character and graphic element design.
 - 2D motion graphics animation.
 - Kinetic typography and creative transitions.
 - Visual effects and scene composition.
 
-Post-Production
-
+### Post-Production
 - Voice-over recording and synchronization.
 - Sound effects and background music.
 - Color correction and final editing.
 - Final rendering and quality review.
 
-Expected Deliverables
-
+### Expected Deliverables
 - Main motion graphics video (approximately 90–120 seconds).
 - Script and storyboard.
 - Design assets and project source files.
 - Final rendered video.
 - Project documentation.
 
-📅 Project Plan (5 Weeks)
+## 📅 Project Plan (5 Weeks)
 
-Week| Tasks
-Week 1| Research, brainstorming, concept development, and scriptwriting
-Week 2| Moodboard, visual identity, storyboard, and asset design
-Week 3| Main animation production and scene development
-Week 4| Animation refinement, transitions, voice-over, and sound design
-Week 5| Final editing, quality review, rendering, and project presentation
+| Week | Tasks |
+|:---:|:---|
+| Week 1 | Research, brainstorming, concept development, and scriptwriting |
+| Week 2 | Moodboard, visual identity, storyboard, and asset design |
+| Week 3 | Main animation production and scene development |
+| Week 4 | Animation refinement, transitions, voice-over, and sound design |
+| Week 5 | Final editing, quality review, rendering, and project presentation |
 
-🛠️ Production Tools
+## 🛠️ Production Tools
 
 - Adobe After Effects
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe Premiere Pro
 
-🔗 Project Resources
+## 🔗 Project Resources
 
-- Google Drive: [To Be Added](https://drive.google.com/drive/folders/17u1UuIWTTgxwH2KkuL3RM8vtz1pxxJaH?usp=sharing)
-- Storyboard: To Be Added
-- Final Video: To Be Added
-- Behance / Portfolio: To Be Added
+### 📁 Google Drive
 
-📊 Project Status
+[**📂 Open ReMind Project Files**](https://drive.google.com/drive/folders/17u1UuIWTTgxwH2KkuL3RM8vtz1pxxJaH?usp=sharing)
 
-Current Phase: Planning & Pre-Production
+### 🎨 Design & Production
+
+- **Storyboard:** Coming Soon
+- **Motion Graphics Preview:** Coming Soon
+- **Final Video:** Coming Soon
+
+## 📊 Project Status
+
+**Current Phase:** Planning & Pre-Production
 
 ---
 
-ReMind — Break the Scroll. Reclaim Your Mind.
+### 🧠 ReMind — Break the Scroll. Reclaim Your Mind.
 
-Motion Graphics Graduation Project | 2026
+*Motion Graphics Graduation Project | 2026*
